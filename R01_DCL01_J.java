@@ -1,6 +1,6 @@
 // Rule 01. Declarations and Initialization (DCL)
 // DCL01-J. Do not reuse public identifiers from the Java Standard Library
-class Vector {
+class MyVector {
   private int val = 1;
 
   public boolean isEmpty() {
